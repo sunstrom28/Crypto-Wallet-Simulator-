@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.text-neon {
+  color: #00f2ff;
+}
+.border-neon {
+  border-color: #00f2ff;
+}
